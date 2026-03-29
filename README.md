@@ -1,5 +1,5 @@
 # 🏠 House Price Prediction
-This project predicts house prices using Machine Learning techniques. It helps in estimating the price of a house based on various features like location, area, number of rooms, etc.
+This project predicts house prices using Machine Learning techniques. It helps in estimating the price of a house based on various features like , area, number of rooms,Distance_to_city,price etc.
 ---
 ## 🚀 Features
 - Data preprocessing (handling missing values, encoding, scaling)
